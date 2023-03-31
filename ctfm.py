@@ -49,7 +49,7 @@ def finish_challenge():
     print(f"[+] challenge finished {finish_date}")
 
 
-ap = ArgumentParser(prog="CTF-Manager")
+ap = ArgumentParser(prog="ctfm")
 ap.add_argument("-i", "--initialize", metavar="CTF_NAME",
                 help="initialize the requirements")
 ap.add_argument("-f", "--flag", 

@@ -1,7 +1,7 @@
 # ctf_manager
 CTF manager
 
-### usage: CTF-Manager [-h] [-i CTF_NAME] [-f FLAG] [-s] [-d]
+### usage: ctfm [-h] [-i CTF_NAME] [-f FLAG] [-s] [-d]
 
 ### options:
     -h, --help            show this help message and exit
