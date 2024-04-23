@@ -6,7 +6,7 @@ import sys
 from argparse import ArgumentParser
 
 CATEGORIES = ["Reverse_Engineering", "Binary_Exploitation",
-              "Web_Exploitation", "Cryptography", "General_Skills"
+              "Web_Exploitation", "Cryptography", "General_Skills",
               "Forensics", "Misc"]
 
 def initialize(ctf_name):
